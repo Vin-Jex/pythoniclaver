@@ -42,6 +42,9 @@ body{
 }
 
 /* ******************  GENERAL STYLES ****************** */
+.wrapper {
+    max-width: 100%;
+}
 .container {
     width: var(--container-width-lg);
     margin: 0 auto;

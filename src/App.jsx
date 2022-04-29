@@ -8,10 +8,11 @@ import Testimonials from './components/testimonials/Testimonials';
 import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
 import About from './components/about/About';
+import './index.css';
 
 const App = () => {
   return (
-    <>
+    <div classname='wrapper'>
         <Header />
         <Nav />
         <About />
@@ -21,7 +22,7 @@ const App = () => {
         <Testimonials />
         <Contact />
         <Footer />
-    </>
+    </div>
   )
 }
 
