@@ -67,6 +67,10 @@ input, textarea {
         grid-template-columns: 1fr;
         gap: 2rem;
     }
+
+    .contact__option {
+        width: unset;
+    }
 }
 
 /* *********** MEDIA QUERIES (SMALL DEVICES) *********** */
