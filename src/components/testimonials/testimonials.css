@@ -1,5 +1,13 @@
 .container.testimonials__container{
     width: 40%;
+    padding-bottom: 3rem;
+}
+
+swiper-pagination swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal
+swiper-pagination-bullet swiper-pagination-bullet-active
+swiper-pagination-bullet swiper-pagination-bulletclass
+.swiper-pagination-clickable  .swiper-pagination-bullet{
+    background: var(--color-primary);
 }
 
 .client__avatar{
