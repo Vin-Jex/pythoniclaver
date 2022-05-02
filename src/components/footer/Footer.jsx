@@ -22,10 +22,10 @@ const Footer = () => {
       <div className="footer__socials">
         <a href="https://facebook.com"><FaFacebook /></a>
         <a href="https://instagram.com"><FiInstagram /></a>
-        <a href="https://twitter.com"><FiInstagram /></a>
+        <a href="https://twitter.com"><IoLogoTwitter /></a>
       </div>
     </footer>
   )
 }
 
-export default Footer
+export default Footer;
