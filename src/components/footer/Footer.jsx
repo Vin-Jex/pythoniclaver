@@ -10,7 +10,7 @@ const Footer = () => {
       <a href="#" className="footer__logo">PYTHONICHUB</a>
 
         <ul className="permalinks">
-          <li><a href="#">HOME</a></li>
+          <li><a href="#">Home</a></li>
           <li><a href="#about">About</a></li>
           <li><a href="#expereince">Expereince</a></li>
           <li><a href="#services">Services</a></li>
@@ -24,6 +24,10 @@ const Footer = () => {
         <a href="https://instagram.com"><FiInstagram /></a>
         <a href="https://twitter.com"><IoLogoTwitter /></a>
       </div>
+
+    <div className="footer__copyright">
+      <small>&copy; PYTHONICHUB. All rights reserved</small>
+    </div>
     </footer>
   )
 }
