@@ -9,12 +9,20 @@ import emailjs from 'emailjs-com'
 
 const Contact = () => {
   const form = useRef(); 
+
   
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm(' service_3kxu1at ', ' service_3kxu1at ', form.current, ' ')   
+    emailjs.sendForm('service_3kxu1at', 'template_1imx90h', form.current, 'HniQSCQQnQSFhiQoi')
+      .then((result) => {
+        alert('email sent successfully');
+      }, (error) => {
+        alert('error sending email');
+      });
+      e.target.reset()
   };
+
   return (
     <section id='contact'>
       <h5>Get In Touch</h5>
@@ -40,7 +48,8 @@ const Contact = () => {
             <BsWhatsapp className='contact__option-icon'/>
             <h4>WhatsApp</h4>
             <h5>+234 906 8985 453</h5>
-            <a href="https://api.whatsapp.com/send/?phone=+2349068985453&text=MyTextMessage" target="_blank" rel='noreferrer noopener'>Send a message</a>
+            <a href="https://api.whatsapp.com/send/?phone=+2349068985453&text=Hey, I'm Okereke Vincent.
+            What's on your mind?" target="_blank" rel='noreferrer noopener'>Send a message</a>
           </article>
         </div>
         

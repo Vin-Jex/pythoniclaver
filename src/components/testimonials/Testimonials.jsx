@@ -50,7 +50,7 @@ const data = [
 
 const Testimonials = () => {
   return (
-    <section avatar='testimonials'>
+    <section id='testimonials' avatar='testimonials'>
       <h5>Review From Clients</h5>
       <h2>Testimonials</h2>
 
