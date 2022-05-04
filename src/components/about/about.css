@@ -66,12 +66,16 @@
     color: var(--color-light);
 }
 
-.about__content h4 {
+.text__container {
     margin: 2rem 0 2.6rem;
     color: var(--color-light);
 }
 
-.about__content b {
+.text__container span {
+    color: var(--color-light);
+}
+
+.text__container b {
     color: var(--color-primary);
     padding-right: .4rem;
 }
