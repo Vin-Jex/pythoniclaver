@@ -95,6 +95,21 @@
     .about__content p{
         margin: 1rem 0 1.5rem;
     }
+
+    .text__container {
+        text-align: left;
+        margin: 2rem 0 2.6rem;
+        color: var(--color-light);
+    }
+    
+    .text__container span {
+        color: var(--color-light);
+    }
+    
+    .text__container b {
+        color: var(--color-primary);
+        padding-right: .4rem;
+    }
 }
 
 /* *********** MEDIA QUERIES (SMALL DEVICES) *********** */
