@@ -66,9 +66,14 @@
     color: var(--color-light);
 }
 
-.about__content p {
+.about__content h4 {
     margin: 2rem 0 2.6rem;
     color: var(--color-light);
+}
+
+.about__content b {
+    color: var(--color-primary);
+    padding-right: .4rem;
 }
 
 /* *********** MEDIA QUERIES (MEDIUM DEVICES) *********** */

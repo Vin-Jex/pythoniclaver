@@ -37,9 +37,12 @@ const About = () => {
                 <small>100+ Completed</small>
               </article>
             </div>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex quasi hic enim magni tenetur? Unde sunt nesciunt explicabo earum minus voluptatibus, quibusdam iure corrupti doloremque, quod incidunt fugit, veritatis quis.
-            </p>
+            <h4>
+              My name is <b>Okereke Vincent.</b> I'm a Junior Frontend Web Developer with over 2+ months of experience in the industry.
+              <br /> My technical skills and knowledge of <b>JavaScript</b>, <b>HTML</b>, <b>CSS</b> and <b>Web Designing</b> in general  will render me a valuable addition to your web development team. 
+              <br />
+              I'm passionate about developing interactive websites and web features to drive up online traffic and sales, bringing the company to greater heights and also to develop my technical ability for a Fast, Interactive and Secure Web Development.
+            </h4>
 
             <a href="#contact" className='btn btn-primary'>Let's Talk</a>
           </div>
