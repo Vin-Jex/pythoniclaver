@@ -13,49 +13,49 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Crypto templates & inforaphics in Figma',
-    github: 'https://github.com/pythoniclaver',
-    demo: 'https://github.com/pythoniclaver',
+    title: 'Admin Dashboard Built with HTML, CSS, and JavaScript',
+    github: 'https://github.com/pythoniclaver/Admin-Dashboard',
+    demo: 'https://pythonichub-admin-dashboard.vercel.app/',
   },
 
   {
     id: 2,
     image: IMG2,
-    title: 'Crypto templates & inforaphics in Figma',
+    title: 'A To-Do List Built with HTML, CSS, and JavaScript',
     github: 'https://github.com/pythoniclaver',
-    demo: 'https://github.com/pythoniclaver',
+    demo: 'https://pythonichub-to-do-list.netlify.app',
   },
 
   {
     id: 3,
     image: IMG3,
-    title: 'Crypto templates & inforaphics in Figma',
+    title: 'Js Issue Tracker Built with HTML, Bootstrap, and Javascript',
     github: 'https://github.com/pythoniclaver',
-    demo: 'https://github.com/pythoniclaver',
+    demo: 'https://js-issue-tracker.vercel.app/',
   },
 
   {
     id: 4,
     image: IMG4,
-    title: 'Crypto templates & inforaphics in Figma',
+    title: 'Pig Game Built with HTML, CSS, Javascript (Using DOM Manipulation)',
     github: 'https://github.com/pythoniclaver',
-    demo: 'https://github.com/pythoniclaver',
+    demo: 'https://pig-game-clone.vercel.app/',
   },
 
   {
     id: 5,
     image: IMG5,
-    title: 'Crypto templates & inforaphics in Figma',
-    github: 'https://github.com/pythoniclaver',
-    demo: 'https://github.com/pythoniclaver',
+    title: 'An eCommerce Website Built with HTML< CSS, JavaScript',
+    github: 'https://github.com/pythoniclaverhttps://github.com/pythoniclaver/eCommerce-Website',
+    demo: 'https://e-commerce-website-indol.vercel.app/',
   },
 
   {
     id: 6,
     image: IMG6,
-    title: 'Crypto templates & inforaphics in Figma',
+    title: 'A Travel Website for Adventure Built with Reactjs',
     github: 'https://github.com/pythoniclaver',
-    demo: 'https://github.com/pythoniclaver',
+    demo: 'https://pyhub.vercel.app/',
   },
 
 ]

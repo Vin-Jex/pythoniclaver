@@ -9,7 +9,7 @@ const Services = () => {
         <h2>Services</h2>
 
         <div className="container services__container">
-          <article className='service'>
+{/*           <article className='service'>
               <div className="service__head">
                 <h3>UI/UX Designs</h3>
               </div>
@@ -17,7 +17,7 @@ const Services = () => {
               <ul className='service__list'>
                   <li>
                     <BiCheck  className='service__list-icon'/> 
-                    <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                    <p>Apply interactive and visual designs.</p>
                   </li>
                   <li>
                     <BiCheck  className='service__list-icon'/> 
@@ -37,7 +37,7 @@ const Services = () => {
                   </li>           
                  
               </ul>
-          </article>
+          </article> */}
           {/* END OF UI/UX */}
 
           <article className='service'>
@@ -48,33 +48,33 @@ const Services = () => {
               <ul className='service__list'>
                   <li>
                     <BiCheck  className='service__list-icon'/> 
-                    <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                    <p>Transform static designs into functional webpages</p>
                   </li>
                   <li>
                     <BiCheck  className='service__list-icon'/> 
-                    <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                    <p>Accessible Websites that looks great on any screen</p>
                   </li>
                   <li>
                     <BiCheck  className='service__list-icon'/> 
-                    <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                    <p>Styling UI components</p>
                   </li>
                   <li>
                     <BiCheck  className='service__list-icon'/> 
-                    <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                    <p>Working with APIs</p>
                   </li>
                   <li>
                     <BiCheck  className='service__list-icon'/> 
-                    <p>Lorem ipsum dolor sit amet consectetur elit.</p>
-                  </li>             
+                    <p>Sustainable projects that are well documented & easy to maintain</p>
+                  </li>                         
                   <li>
                     <BiCheck  className='service__list-icon'/> 
-                    <p>Lorem ipsum dolor sit amet consectetur elit.</p>
-                  </li>             
+                    <p>Smooth interaction implementation</p>
+                  </li>                         
               </ul>
           </article>
           {/* WEB DEVELOPMENT*/}
 
-          <article className='service'>
+{/*           <article className='service'>
               <div className="service__head">
                 <h3>Content Creation</h3>
               </div>
@@ -102,7 +102,7 @@ const Services = () => {
                   </li>           
                  
               </ul>
-          </article>
+          </article> */}
           {/* CONTENT CREATION */}
 
         </div>

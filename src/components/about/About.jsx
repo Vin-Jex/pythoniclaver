@@ -39,16 +39,12 @@ const About = () => {
             </div>
             <div  className='text__container'>
               <span className='span'>
-                My name is <b>Okereke Vincent.</b> I'm a Junior Frontend Web Developer with over 2+ months of experience in the industry.
+                {/* My name is <b>Okereke Vincent.</b>  */}I'm an HTML, CSS, and JavaScript-savvy Frontend Web Developer. I am highly interested about learning and putting ideas into action using codes and designs.
               </span>
                   <br /> <br />
               <span className='span'> 
-                My technical skills and knowledge of <b>JavaScript</b>, <b>HTML</b>, <b>CSS</b> and <b>Web Designing</b> in general  will render me a valuable addition to your web development team. 
-              </span>
-                  <br /><br />
-              <span className='span'>
-                I'm passionate about developing interactive websites and web features to drive up online traffic and sales, bringing the company to greater heights and also to develop my technical ability for a Fast, Interactive and Secure Web Development.
-              </span>
+              I knew I was hooked into the world of web development the instant I printed "Hello World!" in the console of my first application. Web development has never been just a profession for me; it has always been a fun way to keep learning and increase my ability to interpret website UI designs accurately and transform them into responsive websites.
+              </span>     
 
             </div>
 
