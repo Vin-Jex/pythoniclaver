@@ -9,7 +9,7 @@ const Services = () => {
         <h2>Services</h2>
 
         <div className="container services__container">
-{/*           <article className='service'>
+          <article className='service'>
               <div className="service__head">
                 <h3>UI/UX Designs</h3>
               </div>
@@ -37,7 +37,7 @@ const Services = () => {
                   </li>           
                  
               </ul>
-          </article> */}
+          </article>
           {/* END OF UI/UX */}
 
           <article className='service'>
@@ -56,7 +56,7 @@ const Services = () => {
                   </li>
                   <li>
                     <BiCheck  className='service__list-icon'/> 
-                    <p>Styling UI components</p>
+                    <p>Styling User Interface components</p>
                   </li>
                   <li>
                     <BiCheck  className='service__list-icon'/> 
@@ -64,7 +64,7 @@ const Services = () => {
                   </li>
                   <li>
                     <BiCheck  className='service__list-icon'/> 
-                    <p>Sustainable projects that are well documented & easy to maintain</p>
+                    <p>{/* Sustainable projects that are well */} Sustainable, Documented & easy to maintain projects</p>
                   </li>                         
                   <li>
                     <BiCheck  className='service__list-icon'/> 
@@ -74,7 +74,7 @@ const Services = () => {
           </article>
           {/* WEB DEVELOPMENT*/}
 
-{/*           <article className='service'>
+          <article className='service'>
               <div className="service__head">
                 <h3>Content Creation</h3>
               </div>
@@ -102,7 +102,7 @@ const Services = () => {
                   </li>           
                  
               </ul>
-          </article> */}
+          </article>
           {/* CONTENT CREATION */}
 
         </div>

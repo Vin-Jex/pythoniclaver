@@ -22,7 +22,7 @@ const data = [
   
   {
     avatar: AVATR1,
-    name: 'John Doe',
+    name: 'Jane Doe',
     review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus doloribus odit autem placeat quisquam aspernatur. Velit est ratione ea eveniet nihil, delectus excepturi possimus! Nulla doloremque minima perspiciatis cum quod!'
   },
 
