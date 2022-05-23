@@ -37,7 +37,7 @@ const data = [
   {
     id: 4,
     image: IMG4,
-    title: 'Pig Game Built with HTML, CSS, Javascript (Using DOM Manipulation)',
+    title: 'Pig Game Built with HTML, CSS, Javascript (Not Mobile Responsive)',
     github: 'https://github.com/pythoniclaver',
     demo: 'https://pig-game-clone.vercel.app/',
   },
@@ -45,7 +45,7 @@ const data = [
   {
     id: 5,
     image: IMG5,
-    title: 'An eCommerce Website Built with HTML< CSS, JavaScript',
+    title: 'An eCommerce Website Built with HTML, CSS, JavaScript',
     github: 'https://github.com/pythoniclaverhttps://github.com/pythoniclaver/eCommerce-Website',
     demo: 'https://e-commerce-website-indol.vercel.app/',
   },
