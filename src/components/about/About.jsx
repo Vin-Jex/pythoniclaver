@@ -5,7 +5,7 @@ import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
 
-const About = () => {
+ have About = () => {
   return (
     <section id='about'>
         <h5>Get To Know</h5>
@@ -34,7 +34,7 @@ const About = () => {
               <article className='about__card'>
                 <VscFolderLibrary className="about__icon" />
                 <h5>Projects</h5>
-                <small>100+ Completed</small>
+                <small>30+ Completed</small>
               </article>
             </div>
             <div  className='text__container'>
