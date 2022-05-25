@@ -5,7 +5,7 @@ import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
 
- have About = () => {
+ About = () => {
   return (
     <section id='about'>
         <h5>Get To Know</h5>
