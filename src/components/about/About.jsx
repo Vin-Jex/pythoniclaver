@@ -5,7 +5,7 @@ import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
 
- About = () => {
+ const About = () => {
   return (
     <section id='about'>
         <h5>Get To Know</h5>
@@ -43,7 +43,7 @@ import {VscFolderLibrary} from 'react-icons/vsc'
               </span>
                   <br /> <br />
               <span className='span'> 
-              I knew I was hooked into the world of website development the instant I printed "Hello World!" in the console of my first application. Web development has never been just a profession for me; it has always been a fun way to keep learning and increase my ability to interpret website UI designs accurately and transform them into responsive websites.
+              I knew I was hooked into the world of web development the instant I printed "Hello World!" in the console of my first application. Web development has never been just a profession for me; it has always been a fun way to keep learning and increase my ability to interpret website UI designs accurately and transform them into responsive websites.
               </span>     
 
             </div>
