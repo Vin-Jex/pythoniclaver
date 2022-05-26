@@ -14,7 +14,7 @@ import {VscFolderLibrary} from 'react-icons/vsc'
         <div className="container about__container">
           <div className="about__me">
             <div className="about__me-image">
-              <img src={ME} alt="About Image" />
+              <img src={ME} alt="About" />
             </div>
           </div>
           <div className="about__content">
@@ -26,7 +26,7 @@ import {VscFolderLibrary} from 'react-icons/vsc'
               </article>
 
               <article className='about__card'>
-                <FaAward className="about__icon" />
+                <FiUsers className="about__icon" />
                 <h5>Clients</h5>
                 <small>10+ Worldwide</small>
               </article>
