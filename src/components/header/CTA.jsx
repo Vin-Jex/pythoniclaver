@@ -1,6 +1,7 @@
 import React from 'react'
 /* import CV from '../../assets/cv.pdf' */
-import CV2 from '../../assets/Ifeanyi_Vincent Okereke_Resume_21-05-2022-11-00-52.pdf';
+import CV2 from '../../assets/Ifeanyi_Vincent Okereke_Resume.pdf';
+
 
 const CTA = () => {
   return (
