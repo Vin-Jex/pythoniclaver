@@ -12,7 +12,7 @@ import './index.css';
 
 const App = () => {
   return (
-    <div classname='wrapper'>
+    <div className='wrapper'>
         <Header />
         <Nav />
         <About />
@@ -23,7 +23,26 @@ const App = () => {
         <Contact />
         <Footer />
     </div>
-  )
+  );
 }
 
 export default App;
+
+
+// const App = () => {
+//   return (
+//     <div classname='wrapper'>
+//         <Header />
+//         <Nav />
+//         <About />
+//         <Experience />
+//         <Services />
+//         <Portfolio />
+//         <Testimonials />
+//         <Contact />
+//         <Footer />
+//     </div>
+//   )
+// }
+
+// export default App;
