@@ -84,6 +84,20 @@ a:hover {
     color: var(--color-white);
 }
 
+.technology {
+  width: max-content;
+  display: flex;
+  padding: 1rem .5rem 0rem ;
+}
+
+.btn.technology {
+  width: max-content;
+  display: inline-block;
+  color: var(--color-light);
+  background: var(--color-dark);
+  padding: .5rem .5rem;
+}
+
 .btn {
     width: max-content;
     display: inline-block;
