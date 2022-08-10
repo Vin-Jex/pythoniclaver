@@ -87,7 +87,7 @@ a:hover {
 .technology {
   width: max-content;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   padding: 1rem .5rem 0rem ;
 }
