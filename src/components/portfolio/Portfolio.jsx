@@ -13,8 +13,8 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    technology: `Battle`,
-    title: 'Admin Dashboard Built with HTML, CSS, and JavaScript',
+    technology: [ 'HTMl5', 'CSS3', 'JavaScript', 'Font Awesome' ],
+    title: 'Admin Dashboard',
     github: 'https://github.com/pythoniclaver/Admin-Dashboard',
     demo: 'https://pythonichub-admin-dashboard.vercel.app/',
   },
@@ -22,18 +22,18 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    technology: `Battle`,
-    title: 'A To-Do List Built with HTML, CSS, and JavaScript',
+    technology: [ 'HTMl5', 'CSS3', 'JavaScript', 'Bootstrap' ],
+    title: 'A To-Do List',
     github: 'https://github.com/pythoniclaver',
     demo: 'https://pythonichub-to-do-list.netlify.app',
   },
 
   {
     id: 3,
-    technology: ['Bootstrap', 'CSS3', 'JavaScript' ],
+    technology: [ 'HTML5', 'Bootstrap', 'CSS3', 'JavaScript' ],
 
     image: IMG3,
-    title: 'Js Issue Tracker Built with HTML, Bootstrap, and Javascript',
+    title: 'Js Issue Tracker',
     github: 'https://github.com/pythoniclaver',
     demo: 'https://js-issue-tracker.vercel.app/',
   },
@@ -41,8 +41,8 @@ const data = [
   {
     id: 4,
     image: IMG4,
-    technology: `Battle`,
-    title: 'Pig Game Built with HTML, CSS, Javascript (Not Mobile Responsive)',
+    technology: [ 'HTMl5', 'CSS3', 'JavaScript' ],
+    title: 'Pig Game (Not Mobile Responsive)',
     github: 'https://github.com/pythoniclaver',
     demo: 'https://pig-game-clone.vercel.app/',
   },
@@ -50,8 +50,8 @@ const data = [
   {
     id: 5,
     image: IMG5,
-    technology: `Battle`,
-    title: 'An eCommerce Website Built with HTML, CSS, JavaScript',
+    technology: [ 'HTMl5', 'CSS3', 'JavaScript', 'Font Awesome' ],
+    title: 'An eCommerce Website',
     github: 'https://github.com/pythoniclaverhttps://github.com/pythoniclaver/eCommerce-Website',
     demo: 'https://e-commerce-website-indol.vercel.app/',
   },
@@ -59,15 +59,16 @@ const data = [
   {
     id: 6,
     image: IMG6,
-    technology: `React`,
-    title: 'A Travel Website for Adventure Built with Reactjs',
+    technology: [ 'Reactjs', 'React Routing', 'React Icons' ],
+    title: 'A Travel Website for Adventure',
     github: 'https://github.com/pythoniclaver',
     demo: 'https://pyhub.vercel.app/',
   },
+
   {
     id: 7,
     image: IMG6,
-    technology: `Reactjs`,
+    technology: [ 'Reactjs', 'React Routing', 'queryString' ],
     title: 'GitHub Battle compares two users and return a winner and a loser based on their stat.',
     github: 'https://github.com/pythoniclaver',
     demo: 'https://github-repo-battle.vercel.app/',
