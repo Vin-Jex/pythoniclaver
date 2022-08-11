@@ -6,6 +6,7 @@ import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
 import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.jpg'
+import IMG7 from '../../assets/portfolio7.png'
 
 
 const data = [
@@ -13,8 +14,8 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    technology: [ 'HTMl5', 'CSS3', 'JavaScript', 'Font Awesome' ],
-    title: 'Admin Dashboard',
+    technology: [ 'HTMl5', 'CSS3', 'JavaScript' ],
+    title: 'Pythonichub Admin Dashboard help you and your employees to analyze and manage the performance of a web application.',
     github: 'https://github.com/pythoniclaver/Admin-Dashboard',
     demo: 'https://pythonichub-admin-dashboard.vercel.app/',
   },
@@ -22,18 +23,26 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    technology: [ 'HTMl5', 'CSS3', 'JavaScript', 'Bootstrap' ],
-    title: 'A To-Do List',
+    technology: ['HTMl5', 'CSS3', 'JavaScript', 'Bootstrap'],
+    title: 'Pythonichub To-Do List is a website that help people to create, keep track and update the list of things that one wants to get done or that need to get done.',
     github: 'https://github.com/pythoniclaver',
     demo: 'https://pythonichub-to-do-list.netlify.app',
   },
 
   {
-    id: 3,
-    technology: [ 'HTML5', 'Bootstrap', 'CSS3', 'JavaScript' ],
+    id: 7,
+    image: IMG7,
+    technology: [ 'Reactjs', 'React Routing', 'queryString' ],
+    title: "GitHub Battle helps developers and company's to know how productive they've been by comparing their username with a third party username in order to get each persons stat.",
+    github: 'https://github.com/pythoniclaver',
+    demo: 'https://github-repo-battle.vercel.app/',
+  },
 
+  {
+    id: 3,
+    technology: ['HTML5', 'Bootstrap', 'CSS3', 'JavaScript'],
     image: IMG3,
-    title: 'Js Issue Tracker',
+    title: 'Pythonichub Issue Tracker is a single webpage for issue tracking purposes to get a detailed list of various issues and their status.',
     github: 'https://github.com/pythoniclaver',
     demo: 'https://js-issue-tracker.vercel.app/',
   },
@@ -41,8 +50,8 @@ const data = [
   {
     id: 4,
     image: IMG4,
-    technology: [ 'HTMl5', 'CSS3', 'JavaScript' ],
-    title: 'Pig Game (Not Mobile Responsive)',
+    technology: [ 'HTMl5', 'CSS3', 'Vannila JavaScript', 'Desktop-only' ],
+    title: 'Pythonichub Pig Game is a simple dice game with two players.', 
     github: 'https://github.com/pythoniclaver',
     demo: 'https://pig-game-clone.vercel.app/',
   },
@@ -50,8 +59,8 @@ const data = [
   {
     id: 5,
     image: IMG5,
-    technology: [ 'HTMl5', 'CSS3', 'JavaScript', 'Font Awesome' ],
-    title: 'An eCommerce Website',
+    technology: [ 'HTMl5', 'CSS3', 'JavaScript' ],
+    title: 'Pythonichub Business Service is the UI to the backend of an E-commerce website that helps it users ease shopping stress by providing all they need in one place.',
     github: 'https://github.com/pythoniclaverhttps://github.com/pythoniclaver/eCommerce-Website',
     demo: 'https://e-commerce-website-indol.vercel.app/',
   },
@@ -60,18 +69,9 @@ const data = [
     id: 6,
     image: IMG6,
     technology: [ 'Reactjs', 'React Routing', 'React Icons' ],
-    title: 'A Travel Website for Adventure',
+    title: 'Pyhub is a web application that provides travel reviews, trip fares, or a combination of both for the best travel experience.',
     github: 'https://github.com/pythoniclaver',
     demo: 'https://pyhub.vercel.app/',
-  },
-
-  {
-    id: 7,
-    image: IMG6,
-    technology: [ 'Reactjs', 'React Routing', 'queryString' ],
-    title: 'GitHub Battle compares two users and return a winner and a loser based on their stat.',
-    github: 'https://github.com/pythoniclaver',
-    demo: 'https://github-repo-battle.vercel.app/',
   },
 
 ]
@@ -87,7 +87,7 @@ if ( languages === 'Reactjs' ) {
   ]
 } else if( languages === 'HTML' ) {
   languages = [
-    'HTMl5', 'CSS3', 'JavaScript', 'Font Awesome'
+    'HTMl5', 'CSS3', 'JavaScript'
   ]
   
 }else if( languages === 'Bootstrap' ) {
