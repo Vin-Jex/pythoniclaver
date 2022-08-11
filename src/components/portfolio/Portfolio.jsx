@@ -32,9 +32,9 @@ const data = [
   {
     id: 7,
     image: IMG7,
-    technology: [ 'Reactjs', 'React Routing', 'queryString' ],
+    technology: [ 'Reactjs', 'React Routing', 'QueryString', 'Webpack' ],
     title: "GitHub Battle helps developers and company's to know how productive they've been by comparing their username with a third party username in order to get each persons stat.",
-    github: 'https://github.com/pythoniclaver',
+    github: 'https://github.com/pythoniclaver/My-Portfolio',
     demo: 'https://github-repo-battle.vercel.app/',
   },
 
