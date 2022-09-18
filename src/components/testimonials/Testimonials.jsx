@@ -22,26 +22,26 @@ const data = [
   
   {
     avatar: AVATR1,
-    name: 'Jane Doe',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus doloribus odit autem placeat quisquam aspernatur. Velit est ratione ea eveniet nihil, delectus excepturi possimus! Nulla doloremque minima perspiciatis cum quod!'
+    name: 'Charlotte Steve',
+    review: 'This is among the coolest portfolio website I have ever visited. A simple website with lot of cool features like animated scrolling. This website is just great 😍.'
   },
 
   {
     avatar: AVATR2,
     name: 'Emmanuel Joseph',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus doloribus odit autem placeat quisquam aspernatur. Velit est ratione ea eveniet nihil, delectus excepturi possimus! Nulla doloremque minima perspiciatis cum quod!'
+    review: `Pythonichub is a powerful website as it is easy-to-use. I can effortlessly navigate around, plus get up-to-your-game with interaction so I know my campaigne aren on track.`
   },
 
   {
     avatar: AVATR3,
     name: 'Mark',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus doloribus odit autem placeat quisquam aspernatur. Velit est ratione ea eveniet nihil, delectus excepturi possimus! Nulla doloremque minima perspiciatis cum quod!'
+    review: `If I haven't worked on a project with you, I will easily say this website was built by an AI 😂 . I will keeping visiting websites built by pythonichub as long as he keeps building.`
   },
 
   {
     avatar: AVATR4,
     name: 'Jimoh Nana',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus doloribus odit autem placeat quisquam aspernatur. Velit est ratione ea eveniet nihil, delectus excepturi possimus! Nulla doloremque minima perspiciatis cum quod!'
+    review: `Pythonichub is a dedicated and talented frontend engineer who helped my company solve our Frontend issues. He's one of the best Frontend Developer I have ever known. `
   },
 
 ]

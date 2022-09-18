@@ -30,7 +30,6 @@
 .portfolio__item h3 {
     margin: 1.2rem 0 2rem;
     font-size: 1rem;
-    text-align: center;
 }
 
 .portfolio__item-cta {
@@ -40,13 +39,13 @@
 }
 
 
-.technology {
+/* .technology {
   width: max-content;
   display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
-}
+} */
 
 .btn.technology {
   width: max-content;
@@ -80,6 +79,5 @@
     .portfolio__item h3 {
       margin: 1rem 0 2rem;
       font-size: .85rem;
-      text-align: center;
   }
 }

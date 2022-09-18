@@ -1,8 +1,7 @@
 .about__container{
     display: grid;
-    grid-template-columns: 40% 50%;
+    grid-template-columns: 35% 50%;
     gap: 15%;
-    align-items: center;
 }
 
 .about__me {
@@ -24,6 +23,7 @@
     overflow: hidden;
     transform: rotate(10deg);
     transition: var(--transition);
+    object-fit: cover;
 }
 
 .about__me-image:hover{
