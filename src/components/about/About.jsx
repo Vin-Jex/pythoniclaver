@@ -40,7 +40,7 @@ import {VscFolderLibrary} from 'react-icons/vsc'
             <div  className='text__container'>
               <span className='span'>
                 {/* My name is <b>Okereke Vincent.</b>  */}
-               I'm a <b>Front End Engineer</b> who is passionate about using codes and designs to make ideas come to life.
+               I'm a <b>Front End Engineer</b>who is passionate about using codes and designs to make ideas come to life.
               </span>
             
               
