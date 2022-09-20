@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vincent </h1>
-<h3 align="center">A Front End Engineer</h3>
+<h3 align="center">A Frontend Developer</h3>
 
 &ensp;<a href="https://twitter.com/vincent_coder"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
 &ensp;<a href="https://discord.com/users/927470856337227806"><img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" title="Discord" alt="Discord Community" width="40"/></a> 
