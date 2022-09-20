@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vincent </h1>
 <h3 align="center">A Front End Engineer</h3>
 
+&ensp;<a href="https://twitter.com/vincent_coder"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
+&ensp;<a href="https://discord.com/users/927470856337227806"><img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" title="Discord" alt="Discord Community" width="40"/></a> 
+&ensp;<a href="https://www.linkedin.com/in/pythonichub/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
+&ensp;<a href="https://www.instagram.com/pythonic.lava"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="30"/></a> 
+&ensp;<a href="https://github.com/pythoniclaver"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a>
+&ensp;<a href="https://stackoverflow.com/users/user:18370957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:18370957" height="30" width="40" /></a>
+
+<br>
+
+
+
 - 🔭 I’m currently working on a [Chat Room Application](https://github.com/pythoniclaver/Chat-Room)
 
 - 🌱 I’m currently learning **React Native,**
@@ -13,13 +24,6 @@
 
 - ⚡ Fun fact **I love bug fixing**
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://twitter.com/vincent_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vincent_coder" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pythonichub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pythonichub" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:18370957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:18370957" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Tech Stack:</h3>
 
