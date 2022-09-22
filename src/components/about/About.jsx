@@ -4,14 +4,24 @@ import ME from '../../assets/me-about.jpg'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
+import HeaderSocials from '../header/HeaderSocials';
+import CTA from '../header/CTA';
 
  const About = () => {
   return (
     <section id='about'>
-        <h5>Get To Know</h5>
-        <h2>About Me</h2>
+        <h5>Hello I'm</h5>
+        <h1>Vincent Okereke</h1>
+        <h5 className="text-light position">
+            Front End Engineer
+        </h5>
+
+        <CTA />
+
 
         <div className="container about__container">
+          
+          <HeaderSocials />
           <div className="about__me">
             <div className="about__me-image">
               <img src={ME} alt="About" />
@@ -52,6 +62,9 @@ import {VscFolderLibrary} from 'react-icons/vsc'
 
             <a href="#contact" className='btn btn-primary'>Let's Talk</a>
           </div>
+          <a href="#contact" className='scroll__down'>
+            Scroll Down
+          </a>
         </div>
     </section>
     
