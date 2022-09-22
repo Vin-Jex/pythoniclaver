@@ -2,6 +2,7 @@
     display: grid;
     grid-template-columns: 35% 50%;
     gap: 15%;
+    position: relative;
 }
 
 .about__me {
@@ -28,6 +29,39 @@
 
 .about__me-image:hover{
     transform: rotate(0);
+}
+
+.position {
+  margin-bottom: 3rem;
+}
+
+/*  ***************** HEADER SOCIALS *************** */
+.header__socials{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  gap: 0.8rem;
+  position: absolute;
+  left: -6rem;
+  bottom: 10rem;
+}
+
+.header__socials::after {
+  content: "";
+  width: 1px;
+  height: 2rem;
+  margin: 0 auto;
+  background: var(--color-primary);
+}
+
+/*  ***************** SCROLL DOWN *************** */
+.scroll__down{
+  position: absolute;
+  right: -6rem;
+  bottom: 12rem;
+  transform: rotate(90deg);
+  font-weight: 300;
+  font-size: 0.9rem;
 }
 
 .about__cards{
@@ -132,5 +166,9 @@
 
     .about__content p {
         margin: 1.5rem 0;
+    }
+    
+    .header__socials, .scroll__down{
+      display: none;
     }
 }

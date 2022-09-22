@@ -61,7 +61,7 @@ h1{
 section {
     margin-top: 8rem;
 }
-section > h2, section > h5 {
+section > h2, section > h5, section > h1 {
     text-align: center;
     color: var(--color-white);
 }
@@ -69,6 +69,13 @@ section > h2, section > h5 {
 section > h2 {
     color: var(--color-primary);
     margin-bottom: 3rem;
+}
+
+.cta{
+  margin-bottom: 3.5rem;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
 }
 
 .text-light {

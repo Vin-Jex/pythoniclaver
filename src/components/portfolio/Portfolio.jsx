@@ -4,11 +4,11 @@ import './portfolio.css'
 import IMG1 from '../../assets/portfolio7.png'
 import IMG2 from '../../assets/portfolio1.jpg'
 import IMG3 from '../../assets/portfolio5.png'
-import IMG4 from '../../assets/homepage.jpeg'
-import IMG5 from '../../assets/portfolio3.jpg'
-import IMG6 from '../../assets/portfolio4.jpg'
+// import IMG4 from '../../assets/homepage.jpeg'
+// import IMG5 from '../../assets/portfolio3.jpg'
+// import IMG6 from '../../assets/portfolio4.jpg'
 
-import IMG7 from '../../assets/portfolio6.jpg'
+// import IMG7 from '../../assets/portfolio6.jpg'
 
 
 
@@ -41,32 +41,32 @@ const data = [
     demo: 'https://e-commerce-website-indol.vercel.app/',
   },
   
-  {
-    id: 4,
-    image: IMG4,
-    /* technology: ['HTMl5', 'CSS3', 'JavaScript', 'Bootstrap'], */
-    title: 'Mra conference application to improve productivity.',
-    github: 'https://github.com/pythoniclaver',
-    demo: 'https://vimeo.com/744000819',
-  },
+  // {
+  //   id: 4,
+  //   image: IMG4,
+  //   /* technology: ['HTMl5', 'CSS3', 'JavaScript', 'Bootstrap'], */
+  //   title: 'Mra conference application to improve productivity.',
+  //   github: 'https://github.com/pythoniclaver',
+  //   demo: 'https://vimeo.com/744000819',
+  // },
 
-  {
-    id: 5,
-    /* technology: ['HTML5', 'Bootstrap', 'CSS3', 'JavaScript'], */
-    image: IMG5,
-    title: 'Pythonichub Issue Tracker for issue reporting.',
-    github: 'https://github.com/pythoniclaver',
-    demo: 'https://js-issue-tracker.vercel.app/',
-  },
+  // {
+  //   id: 5,
+  //   /* technology: ['HTML5', 'Bootstrap', 'CSS3', 'JavaScript'], */
+  //   image: IMG5,
+  //   title: 'Pythonichub Issue Tracker for issue reporting.',
+  //   github: 'https://github.com/pythoniclaver',
+  //   demo: 'https://js-issue-tracker.vercel.app/',
+  // },
 
-  {
-    id: 6,
-    image: IMG6,
-    /* technology: [ 'HTMl5', 'CSS3', 'Vannila JavaScript', 'Desktop-only' ] ,*/
-    title: 'Pythonichub Pig Game a simple dice game for fun.', 
-    github: 'https://github.com/pythoniclaver',
-    demo: 'https://pig-game-clone.vercel.app/',
-  },
+  // {
+  //   id: 6,
+  //   image: IMG6,
+  //   /* technology: [ 'HTMl5', 'CSS3', 'Vannila JavaScript', 'Desktop-only' ] ,*/
+  //   title: 'Pythonichub Pig Game a simple dice game for fun.', 
+  //   github: 'https://github.com/pythoniclaver',
+  //   demo: 'https://pig-game-clone.vercel.app/',
+  // },
 
   // {
   //   id: 7,
