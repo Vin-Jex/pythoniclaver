@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pythonichub.vercel.app/](https://pythonichub.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Tailwindcss, BOOTSTRAP, React, Git, GitHub**
+- 💬 Ask me about **HTML, CSS, JavaScript, Tailwindcss, TypeScript BOOTSTRAP, Reactjs, Git, GitHub**
 
 - 📫 How to reach me **vincentcode0@gmail.com**
 
@@ -55,9 +55,7 @@
 ![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white)
 
 <p align="left"> 
-
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pythoniclaver" alt="pythoniclaver" /></a>
-
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pythoniclaver&show_icons=true&locale=en&layout=compact" alt="pythoniclaver" /></p>
