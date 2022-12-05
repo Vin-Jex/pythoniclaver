@@ -62,7 +62,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pythoniclaver&show_icons=true&locale=en" alt="pythoniclaver" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pythoniclaver)
+[![Pythoniclaver's github activity graph](https://activity-graph.herokuapp.com/graph?username=pythoniclaver)](https://github.com/pythoniclaver/github-readme-activity-graph)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pythoniclaver&" alt="pythoniclaver" /></p>
 
