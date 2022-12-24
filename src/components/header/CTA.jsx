@@ -3,7 +3,10 @@ import React from 'react'
 const CTA = () => {
   return (
     <div className='cta'>
-        <a href='https://drive.google.com/file/d/1_Hb4d9FqsWkWF62pylpCFr6bdvW-d1Et/view'
+        <a href='https://drive.google.com/file/d/1RrW5HLQvtzX26Y_jgAfGh4lL4XoQ8G_z/view'
+
+
+
         target="_blank"
         rel='noreferrer'
         className='btn'>HIRE ME</a>
