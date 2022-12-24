@@ -32,7 +32,7 @@ import CTA from '../header/CTA';
               <article className='about__card'>
                 <FaAward className="about__icon" />
                 <h5>Experience</h5>
-                <small>Over 1+ Year Working</small>
+                <small>Over 2+ Years Working</small>
               </article>
 
               <article className='about__card'>
