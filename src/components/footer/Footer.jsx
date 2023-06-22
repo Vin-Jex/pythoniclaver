@@ -5,8 +5,6 @@ import { BsLinkedin, BsYoutube } from 'react-icons/bs'
  
 const Footer = () => {
   return (
-   <div>
-    <iframe data-aa='2228291' src='//ad.a-ads.com/2228291?size=728x90' style='width:728px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
     <footer id='footer'>
       <a href='#' className='footer__logo'>
         PYTHONICHUB
@@ -64,7 +62,6 @@ const Footer = () => {
         <small>&copy; PYTHONICHUB. All rights reserved</small>
       </div>
     </footer>
-    </div>
   );
 }
 
